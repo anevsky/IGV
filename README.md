@@ -1,6 +1,10 @@
 # IGV
 IGV - Intelligent Graph Visualizer
 
+![alt IGV-Logo.jpg](IGV-Logo.jpg "IGV - Intelligent Graph Visualizer")
+
+![alt IGV-Europe.png](IGV-Europe.png "IGV - Intelligent Graph Visualizer - Europe")
+
 ====================================
 
 - Run "IGV.lnk" or "/bin/IGV.exe".
